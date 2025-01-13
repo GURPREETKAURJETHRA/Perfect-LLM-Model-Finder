@@ -1,6 +1,8 @@
 # Perfect LLM Model Finder
 Perfect LLM Model Finder is a tool designed to simplify the overwhelming process of choosing the right LLM wrt Usecase or Project.
 
+![Perfect LLM Model Finder](PM.png)
+
 Welcome to **Perfect LLM Model Finder**, where I help you find your ideal Large Language Model (LLM) based on Open LLM Benchmarks! If you're tired of swiping left on models that don't quite meet your needs, this project is here to match you with the perfect partner for your task. 
 
 ## What is Perfect LLM Model Finder? 🤔
